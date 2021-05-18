@@ -1,6 +1,13 @@
 # Stock-analysis
+
 ## Overview of the analysis
-The purpose of this anaysis was to analyze returns on stocks for two different years using VBA. Initially, for a few tickers we found the total volume traded and the amount of return(investment or loss) the ticker(stock) made during the year. For this analysis, our objective was to refactor the code 
+The purpose of this anaysis was to analyze returns on stocks for two different years using VBA. Initially, for a few tickers we found the total volume traded and the amount of return(investment or loss) the ticker(stock) made during the year. For this analysis, our objective was to refactor the code so it can be used for multiple years and also hold more tickers if necessary.
+
 ## Results of the analysis
+![image](https://user-images.githubusercontent.com/76402559/118720796-0e9ee980-b7f8-11eb-87bd-b8085aabe74a.png)
+For the year of 2017, all the tickers(stocks) had great returns except 1 stock which made a loss. The ticker DQ had close to a 200% return which is incredibly high.
+
+![image](https://user-images.githubusercontent.com/76402559/118720908-2d9d7b80-b7f8-11eb-9e22-a101fd66d153.png)
+For the year of 2018, most of the tickers made a loss except 2. Also, the total volume of the stocks that were traded had also decreased for most of the tickers. It's not quite clear why this happened.   
 
 ## Summary of the analysis
